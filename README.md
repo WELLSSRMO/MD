@@ -23,3 +23,4 @@
 
 [Trending](https://github.com/WELLSSRMO/MD/blob/master/Trending.md)
 
+[International Fun](https://github.com/WELLSSRMO/MD/blob/master/Japan.md)

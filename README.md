@@ -13,4 +13,5 @@
 ```html
 SEE MORE
 ```
-[Not a Bully](Not a bully.md)
+[Not a Bully](https://github.com/WELLSSRMO/MD/blob/master/Not%20a%20bully.md)
+

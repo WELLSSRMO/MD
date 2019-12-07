@@ -11,6 +11,6 @@
 - While working full time, I also participate part time, online through [Mizzou Online](https://online.missouri.edu/)
 
 ```html
-## See pages
+SEE MORE
 ```
-> [Not a Bully](Not a bully.md)
+[Not a Bully](Not a bully.md)

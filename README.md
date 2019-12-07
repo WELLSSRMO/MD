@@ -11,3 +11,6 @@
 ![Rosie](https://lh3.googleusercontent.com/SrR5Og12MG6b0RR83aHYCQSWzs-wlFsfccnbT8rCBway4wjWRgyf6YWL6cKwfOyF7WbMzQ=s85)
 ###### Rosie aka *Dino Dog*
 
+```html
+<p>Markdowns rule<p>
+```
